@@ -61,6 +61,6 @@ void create(int a)
 {
     for (i = 0; i < a; i++)
     {
-        printf
+        printf("hi refresh")
     }
 }
